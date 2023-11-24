@@ -1,0 +1,7 @@
+[user]
+	email = 30609244+abelsouzacosta@users.noreply.github.com
+	name = abelsouzacosta
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
